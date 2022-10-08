@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "moe.inx.simple_end_disable.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": ["EndPortalBlockMixin"],
+  "mixins": ["EndPortalBlockMixin", "EnderEyeItemMixin"],
   "client": [],
   "injectors": {
     "defaultRequire": 1
